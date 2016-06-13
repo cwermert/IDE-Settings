@@ -6,6 +6,9 @@
   <action id="DashLauncherAction">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
